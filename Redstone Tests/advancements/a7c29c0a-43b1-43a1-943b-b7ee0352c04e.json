@@ -23,15 +23,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2022-12-07 11:46:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2022-12-07 11:49:06 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
-      "has_redstone": "2022-12-07 11:46:13 +0200"
+      "has_glass": "2022-12-11 19:10:23 +0200"
     },
     "done": true
   },
