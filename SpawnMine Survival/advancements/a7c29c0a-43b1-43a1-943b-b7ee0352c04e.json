@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2022-12-13 12:16:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-03-10 16:42:39 +0200"
@@ -1215,7 +1221,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-03-10 16:43:48 +0200",
       "minecraft:nether_wastes": "2021-03-09 10:46:31 +0200",
-      "minecraft:warped_forest": "2021-03-09 10:48:20 +0200"
+      "minecraft:warped_forest": "2021-03-09 10:48:20 +0200",
+      "minecraft:basalt_deltas": "2022-12-13 12:20:13 +0200"
     },
     "done": false
   },
@@ -3837,6 +3844,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2022-12-13 12:29:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2022-12-09 21:01:02 +0200"
@@ -4227,6 +4240,7 @@
       "cooked_beef": "2021-03-09 11:18:56 +0200",
       "cooked_cod": "2022-12-07 16:17:30 +0200",
       "bread": "2021-03-07 21:23:04 +0200",
+      "rotten_flesh": "2022-12-13 11:10:17 +0200",
       "golden_carrot": "2021-03-08 17:28:25 +0200",
       "carrot": "2021-03-08 17:23:31 +0200"
     },
