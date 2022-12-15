@@ -1061,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-12-15 13:08:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-02-06 19:13:14 +0200"
@@ -2133,6 +2139,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2022-12-15 13:12:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2021-03-10 16:28:14 +0200"
@@ -2349,6 +2361,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-12-15 12:54:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2021-02-06 19:25:23 +0200"
@@ -2388,6 +2406,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2021-02-06 19:12:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-12-15 13:32:33 +0200"
     },
     "done": true
   },
@@ -3021,6 +3045,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-12-15 13:05:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-02-06 19:29:32 +0200"
@@ -3150,7 +3180,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-04-16 12:40:24 +0300",
+      "minecraft:blaze": "2022-12-15 12:52:43 +0200",
       "minecraft:skeleton": "2021-03-07 22:03:28 +0200",
+      "minecraft:ghast": "2022-12-15 13:05:44 +0200",
       "minecraft:hoglin": "2022-12-06 18:48:58 +0200",
       "minecraft:spider": "2021-02-24 12:11:33 +0200",
       "minecraft:creeper": "2021-03-07 21:17:40 +0200",
@@ -4771,6 +4803,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-03-07 21:22:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-12-15 12:50:52 +0200"
     },
     "done": true
   },
