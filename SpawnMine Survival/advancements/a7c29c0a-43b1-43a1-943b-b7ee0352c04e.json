@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-12-17 21:23:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2022-12-06 18:59:57 +0200"
@@ -1685,7 +1691,9 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2021-03-07 22:47:35 +0200",
-      "minecraft:cow": "2021-03-08 18:20:47 +0200"
+      "minecraft:sheep": "2022-12-17 19:52:21 +0200",
+      "minecraft:cow": "2021-03-08 18:20:47 +0200",
+      "minecraft:chicken": "2022-12-17 20:44:40 +0200"
     },
     "done": false
   },
