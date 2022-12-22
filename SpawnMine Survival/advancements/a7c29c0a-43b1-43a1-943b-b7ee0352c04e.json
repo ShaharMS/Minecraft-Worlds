@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-12-21 16:41:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_the_recipe": "2022-12-09 21:01:02 +0200"
@@ -1690,6 +1696,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2022-12-21 16:45:14 +0200",
       "minecraft:pig": "2021-03-07 22:47:35 +0200",
       "minecraft:turtle": "2022-12-18 13:31:19 +0200",
       "minecraft:sheep": "2022-12-17 19:52:21 +0200",
@@ -1797,6 +1804,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2022-12-09 21:01:02 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_ghast_grief": {
+    "criteria": {
+      "tick": "2022-12-21 15:33:36 +0200"
     },
     "done": true
   },
@@ -2553,6 +2566,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-12-09 21:01:02 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_creeper_grief": {
+    "criteria": {
+      "tick": "2022-12-21 15:33:36 +0200"
     },
     "done": true
   },
@@ -3951,6 +3970,12 @@
     },
     "done": true
   },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2022-12-21 15:33:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_the_recipe": "2022-12-09 21:01:02 +0200"
@@ -5318,6 +5343,14 @@
       "has_the_recipe": "2022-12-09 21:01:02 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/white.png": "2022-12-21 16:44:48 +0200",
+      "textures/entity/cat/jellie.png": "2022-12-21 16:43:25 +0200",
+      "textures/entity/cat/persian.png": "2022-12-21 16:41:56 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
