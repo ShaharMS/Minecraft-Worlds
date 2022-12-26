@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2022-12-26 21:41:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-02-06 19:29:00 +0200"
@@ -44,6 +50,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_the_recipe": "2022-12-09 21:01:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2022-12-26 19:31:00 +0200"
     },
     "done": true
   },
@@ -1301,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2022-12-26 22:44:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-06 19:12:51 +0200"
@@ -1982,6 +2000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-12-26 19:28:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_the_recipe": "2022-12-24 21:26:15 +0200"
@@ -2584,6 +2608,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-02-06 19:12:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2022-12-26 22:14:03 +0200"
     },
     "done": true
   },
@@ -3991,6 +4021,7 @@
       "minecraft:slime": "2021-04-19 19:49:41 +0300",
       "minecraft:zombified_piglin": "2022-12-06 18:28:08 +0200",
       "minecraft:witch": "2021-03-07 21:17:02 +0200",
+      "minecraft:husk": "2022-12-26 22:36:08 +0200",
       "minecraft:piglin": "2021-03-09 10:48:25 +0200",
       "minecraft:enderman": "2021-03-08 18:53:10 +0200",
       "minecraft:zombie": "2021-02-06 19:40:43 +0200",
@@ -4763,6 +4794,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2022-12-26 22:51:25 +0200",
+      "minecraft:eroded_badlands": "2022-12-26 22:19:15 +0200",
+      "minecraft:sunflower_plains": "2022-12-26 22:56:40 +0200",
       "minecraft:birch_forest": "2021-03-08 18:10:39 +0200",
       "minecraft:windswept_hills": "2021-03-08 18:15:48 +0200",
       "minecraft:beach": "2021-02-06 19:34:04 +0200",
@@ -4771,14 +4805,18 @@
       "minecraft:lukewarm_ocean": "2022-12-24 22:42:32 +0200",
       "minecraft:stony_shore": "2021-03-09 11:11:31 +0200",
       "minecraft:swamp": "2021-03-07 21:22:34 +0200",
+      "minecraft:grove": "2022-12-26 22:46:12 +0200",
       "minecraft:cold_ocean": "2021-02-06 19:35:30 +0200",
       "minecraft:forest": "2021-02-06 19:45:38 +0200",
+      "minecraft:lush_caves": "2022-12-26 22:07:17 +0200",
       "minecraft:deep_cold_ocean": "2021-03-09 11:45:20 +0200",
       "minecraft:frozen_ocean": "2022-12-24 23:37:09 +0200",
       "minecraft:desert": "2022-12-26 13:12:28 +0200",
       "minecraft:deep_frozen_ocean": "2021-02-24 12:18:38 +0200",
+      "minecraft:ocean": "2022-12-26 22:52:50 +0200",
       "minecraft:warm_ocean": "2022-12-24 22:30:55 +0200",
       "minecraft:deep_lukewarm_ocean": "2022-12-24 21:50:31 +0200",
+      "minecraft:frozen_peaks": "2022-12-26 22:47:14 +0200",
       "minecraft:savanna": "2022-12-26 13:11:36 +0200",
       "minecraft:plains": "2021-02-06 19:11:55 +0200"
     },
@@ -5374,6 +5412,7 @@
       "bread": "2021-03-07 21:23:04 +0200",
       "rotten_flesh": "2022-12-13 11:10:17 +0200",
       "golden_carrot": "2021-03-08 17:28:25 +0200",
+      "cooked_rabbit": "2022-12-26 22:42:03 +0200",
       "carrot": "2021-03-08 17:23:31 +0200"
     },
     "done": false
