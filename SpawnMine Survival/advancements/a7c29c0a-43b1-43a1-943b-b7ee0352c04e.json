@@ -3727,6 +3727,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-12-30 11:03:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_the_recipe": "2022-12-09 21:01:02 +0200"
@@ -4845,18 +4851,25 @@
       "minecraft:snowy_slopes": "2022-12-26 22:51:25 +0200",
       "minecraft:mushroom_fields": "2022-12-28 17:02:33 +0200",
       "minecraft:eroded_badlands": "2022-12-26 22:19:15 +0200",
+      "minecraft:frozen_river": "2022-12-30 11:37:55 +0200",
       "minecraft:sunflower_plains": "2022-12-26 22:56:40 +0200",
       "minecraft:birch_forest": "2021-03-08 18:10:39 +0200",
       "minecraft:windswept_hills": "2021-03-08 18:15:48 +0200",
+      "minecraft:wooded_badlands": "2022-12-30 13:49:35 +0200",
       "minecraft:badlands": "2022-12-29 20:34:34 +0200",
+      "minecraft:savanna_plateau": "2022-12-30 13:53:51 +0200",
       "minecraft:beach": "2021-02-06 19:34:04 +0200",
       "minecraft:dark_forest": "2021-03-07 21:21:43 +0200",
+      "minecraft:mangrove_swamp": "2022-12-30 10:17:44 +0200",
       "minecraft:river": "2021-02-06 19:55:23 +0200",
       "minecraft:lukewarm_ocean": "2022-12-24 22:42:32 +0200",
       "minecraft:stony_shore": "2021-03-09 11:11:31 +0200",
+      "minecraft:snowy_plains": "2022-12-30 10:59:56 +0200",
       "minecraft:dripstone_caves": "2022-12-29 20:45:22 +0200",
+      "minecraft:snowy_taiga": "2022-12-30 11:45:44 +0200",
       "minecraft:swamp": "2021-03-07 21:22:34 +0200",
       "minecraft:grove": "2022-12-26 22:46:12 +0200",
+      "minecraft:jagged_peaks": "2022-12-30 10:57:59 +0200",
       "minecraft:cold_ocean": "2021-02-06 19:35:30 +0200",
       "minecraft:forest": "2021-02-06 19:45:38 +0200",
       "minecraft:lush_caves": "2022-12-26 22:07:17 +0200",
@@ -4865,9 +4878,14 @@
       "minecraft:desert": "2022-12-26 13:12:28 +0200",
       "minecraft:deep_frozen_ocean": "2021-02-24 12:18:38 +0200",
       "minecraft:ocean": "2022-12-26 22:52:50 +0200",
+      "minecraft:jungle": "2022-12-30 10:37:43 +0200",
+      "minecraft:windswept_savanna": "2022-12-30 10:17:25 +0200",
       "minecraft:warm_ocean": "2022-12-24 22:30:55 +0200",
       "minecraft:deep_lukewarm_ocean": "2022-12-24 21:50:31 +0200",
       "minecraft:frozen_peaks": "2022-12-26 22:47:14 +0200",
+      "minecraft:old_growth_birch_forest": "2022-12-30 11:37:20 +0200",
+      "minecraft:deep_dark": "2022-12-30 11:02:15 +0200",
+      "minecraft:meadow": "2022-12-30 10:55:46 +0200",
       "minecraft:savanna": "2022-12-26 13:11:36 +0200",
       "minecraft:plains": "2021-02-06 19:11:55 +0200"
     },
