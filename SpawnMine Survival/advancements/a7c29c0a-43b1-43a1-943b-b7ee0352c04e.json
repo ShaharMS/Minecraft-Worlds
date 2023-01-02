@@ -3043,6 +3043,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2022-12-31 20:17:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2021-02-06 19:12:50 +0200"
@@ -4054,9 +4060,13 @@
       "minecraft:ghast": "2022-12-15 13:05:44 +0200",
       "minecraft:hoglin": "2022-12-06 18:48:58 +0200",
       "minecraft:guardian": "2022-12-28 16:19:43 +0200",
+      "minecraft:vindicator": "2022-12-31 19:40:03 +0200",
+      "minecraft:magma_cube": "2022-12-31 20:18:07 +0200",
       "minecraft:spider": "2021-02-24 12:11:33 +0200",
+      "minecraft:piglin_brute": "2022-12-31 20:16:57 +0200",
       "minecraft:creeper": "2021-03-07 21:17:40 +0200",
       "minecraft:slime": "2021-04-19 19:49:41 +0300",
+      "minecraft:evoker": "2022-12-31 19:42:42 +0200",
       "minecraft:zombified_piglin": "2022-12-06 18:28:08 +0200",
       "minecraft:witch": "2021-03-07 21:17:02 +0200",
       "minecraft:wither_skeleton": "2022-12-29 21:01:29 +0200",
@@ -4066,6 +4076,7 @@
       "minecraft:piglin": "2021-03-09 10:48:25 +0200",
       "minecraft:enderman": "2021-03-08 18:53:10 +0200",
       "minecraft:silverfish": "2022-12-29 21:20:38 +0200",
+      "minecraft:vex": "2022-12-31 19:42:50 +0200",
       "minecraft:zombie": "2021-02-06 19:40:43 +0200",
       "minecraft:drowned": "2021-03-08 11:16:57 +0200",
       "minecraft:zombie_villager": "2021-03-07 21:35:05 +0200"
@@ -4369,6 +4380,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_the_recipe": "2022-12-09 21:01:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-01-01 19:24:40 +0200"
     },
     "done": true
   },
@@ -4856,10 +4873,12 @@
       "minecraft:birch_forest": "2021-03-08 18:10:39 +0200",
       "minecraft:windswept_hills": "2021-03-08 18:15:48 +0200",
       "minecraft:wooded_badlands": "2022-12-30 13:49:35 +0200",
+      "minecraft:bamboo_jungle": "2022-12-31 19:13:08 +0200",
       "minecraft:badlands": "2022-12-29 20:34:34 +0200",
       "minecraft:savanna_plateau": "2022-12-30 13:53:51 +0200",
       "minecraft:beach": "2021-02-06 19:34:04 +0200",
       "minecraft:dark_forest": "2021-03-07 21:21:43 +0200",
+      "minecraft:stony_peaks": "2023-01-01 23:24:37 +0200",
       "minecraft:mangrove_swamp": "2022-12-30 10:17:44 +0200",
       "minecraft:river": "2021-02-06 19:55:23 +0200",
       "minecraft:lukewarm_ocean": "2022-12-24 22:42:32 +0200",
