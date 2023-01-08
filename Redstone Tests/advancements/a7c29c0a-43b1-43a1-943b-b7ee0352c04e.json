@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2023-01-08 20:50:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2022-12-22 16:15:38 +0200"
@@ -191,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2023-01-08 20:50:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2022-12-07 11:45:48 +0200"
@@ -206,6 +218,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2022-12-22 16:16:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2023-01-08 20:50:21 +0200"
     },
     "done": true
   },
@@ -233,13 +251,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+  "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2022-12-07 11:45:48 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-12-07 11:45:48 +0200"
     },
@@ -269,9 +287,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/slime_ball": {
+  "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
-      "has_slime": "2022-12-07 11:46:45 +0200"
+      "has_yellow_wool": "2023-01-08 20:50:21 +0200"
     },
     "done": true
   },
@@ -305,5 +323,5 @@
     },
     "done": true
   },
-  "DataVersion": 2580
+  "DataVersion": 3120
 }
