@@ -865,6 +865,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2023-11-05 19:57:43 +0200",
       "minecraft:skeleton": "2023-02-06 18:11:35 +0200",
       "minecraft:ghast": "2023-10-13 14:38:13 +0300",
       "minecraft:spider": "2023-02-07 16:52:12 +0200",
@@ -873,6 +874,7 @@
       "minecraft:zombified_piglin": "2023-02-05 16:07:57 +0200",
       "minecraft:witch": "2023-10-26 16:46:22 +0300",
       "minecraft:shulker": "2023-02-06 18:19:34 +0200",
+      "minecraft:cave_spider": "2023-11-05 19:18:50 +0200",
       "minecraft:piglin": "2023-03-06 14:31:09 +0200",
       "minecraft:enderman": "2023-02-06 18:11:23 +0200",
       "minecraft:zombie": "2023-02-05 16:08:50 +0200",
@@ -925,6 +927,12 @@
   "vanillatweaks:player_head_drops": {
     "criteria": {
       "tick": "2023-05-03 17:42:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2023-11-05 19:29:54 +0200"
     },
     "done": true
   },
@@ -1018,9 +1026,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-11-05 19:18:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2023-02-05 15:12:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-11-05 19:17:11 +0200"
     },
     "done": true
   },
@@ -1456,6 +1476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2023-11-05 19:23:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2023-02-05 15:12:17 +0200"
@@ -1606,8 +1632,10 @@
       "minecraft:bamboo_jungle": "2023-03-01 19:34:42 +0200",
       "minecraft:wooded_badlands": "2023-10-13 17:16:45 +0300",
       "minecraft:badlands": "2023-02-06 18:16:01 +0200",
+      "minecraft:savanna_plateau": "2023-11-05 19:27:52 +0200",
       "minecraft:beach": "2023-02-05 15:19:52 +0200",
       "minecraft:dark_forest": "2023-03-03 01:20:22 +0200",
+      "minecraft:stony_peaks": "2023-11-05 19:27:58 +0200",
       "minecraft:sparse_jungle": "2023-03-01 19:34:04 +0200",
       "minecraft:lukewarm_ocean": "2023-02-05 15:12:54 +0200",
       "minecraft:river": "2023-02-05 15:12:19 +0200",
@@ -2064,6 +2092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-11-05 19:29:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-03-06 14:28:11 +0200"
@@ -2244,6 +2278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2023-11-05 19:29:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2023-03-01 19:10:48 +0200"
@@ -2259,6 +2299,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2023-02-05 15:17:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2023-11-05 19:23:20 +0200"
     },
     "done": true
   },
@@ -2357,6 +2403,18 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2023-10-18 20:09:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-11-05 19:29:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-11-05 19:17:11 +0200"
     },
     "done": true
   },
@@ -3081,6 +3139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-11-05 19:29:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2023-02-07 17:14:33 +0200"
@@ -3096,6 +3160,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2023-08-11 00:55:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-11-05 19:29:54 +0200"
     },
     "done": true
   },
@@ -3612,6 +3682,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2023-02-07 17:12:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-11-05 19:18:12 +0200"
     },
     "done": true
   },
