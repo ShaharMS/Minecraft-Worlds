@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-12-19 15:08:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-02-14 17:09:42 +0200"
@@ -44,6 +50,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2023-02-05 16:10:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2023-12-19 15:08:35 +0200"
     },
     "done": true
   },
@@ -641,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2023-12-19 15:08:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2023-02-05 16:07:59 +0200"
@@ -662,6 +680,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2023-02-06 18:28:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-12-19 15:09:54 +0200"
     },
     "done": true
   },
@@ -1011,6 +1035,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-03-03 01:03:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-12-19 15:08:35 +0200"
     },
     "done": true
   },
@@ -1629,6 +1659,7 @@
       "minecraft:eroded_badlands": "2023-03-01 19:21:37 +0200",
       "minecraft:frozen_river": "2023-03-03 01:16:30 +0200",
       "minecraft:birch_forest": "2023-03-03 01:20:06 +0200",
+      "minecraft:windswept_hills": "2023-12-19 15:21:31 +0200",
       "minecraft:bamboo_jungle": "2023-03-01 19:34:42 +0200",
       "minecraft:wooded_badlands": "2023-10-13 17:16:45 +0300",
       "minecraft:badlands": "2023-02-06 18:16:01 +0200",
@@ -1644,6 +1675,7 @@
       "minecraft:dripstone_caves": "2023-03-03 01:01:53 +0200",
       "minecraft:snowy_taiga": "2023-03-03 01:16:42 +0200",
       "minecraft:swamp": "2023-03-04 23:15:37 +0200",
+      "minecraft:grove": "2023-12-19 15:30:06 +0200",
       "minecraft:jagged_peaks": "2023-03-03 01:17:56 +0200",
       "minecraft:cold_ocean": "2023-02-05 15:19:49 +0200",
       "minecraft:forest": "2023-02-06 18:14:44 +0200",
@@ -1720,6 +1752,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2023-02-14 17:09:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-12-19 15:09:54 +0200"
     },
     "done": true
   },
@@ -1870,6 +1908,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2023-03-01 19:19:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2023-12-19 15:08:35 +0200"
     },
     "done": true
   },
@@ -2436,6 +2480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-12-19 15:09:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2023-03-03 01:03:54 +0200"
@@ -2704,6 +2754,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2023-02-05 15:20:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-12-19 15:09:54 +0200"
     },
     "done": true
   },
@@ -3085,6 +3141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-12-19 15:09:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2023-10-26 11:58:43 +0300"
@@ -3415,6 +3477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-12-19 15:08:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2023-02-05 15:12:17 +0200"
@@ -3559,6 +3627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-12-19 15:09:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2023-03-06 14:43:24 +0200"
@@ -3598,6 +3672,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2023-03-03 13:34:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2023-12-19 15:19:41 +0200"
     },
     "done": true
   },
