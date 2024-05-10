@@ -678,5 +678,11 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2024-05-09 17:00:07 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
